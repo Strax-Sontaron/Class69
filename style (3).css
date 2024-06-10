@@ -1,0 +1,20 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel.mainDiv
+{
+    border:1px solid lightgrey;
+}
+
+.travel.mainDiv img
+{
+    width:110%;
+    height:40%;
+}
+
+.travel.mainDiv h5 , .travel.mainDiv p
+{
+    margin:20px;
+}
